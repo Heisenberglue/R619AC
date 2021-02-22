@@ -1,3 +1,5 @@
+#即用
+
 # OpenWrt firmware for P2W R619AC
 固件采用GitHub Actions不定时自动云编译。  
 Auto build OpenWrt firmware for P2W_R619AC via GitHub Actions
